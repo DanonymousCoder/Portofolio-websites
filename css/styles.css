@@ -27,6 +27,10 @@
   .header .roles {
     font-family: "lora-regular", serif;
   }
+
+  .about-img {
+    width: 200px;
+  }
   
   .header .social {
     bottom: 50px;
